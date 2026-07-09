@@ -1,6 +1,5 @@
 
-usuarios = { 101: "lol@example.com",102: "hi@example.com",103: "hello@example.com",104: "hola@example.com"
-}
+usuarios = { 101: "lol@example.com",102: "hi@example.com",103: "hello@example.com",104: "hola@example.com"}
 print("Diccionario inicial:")
 print(usuarios)
 
